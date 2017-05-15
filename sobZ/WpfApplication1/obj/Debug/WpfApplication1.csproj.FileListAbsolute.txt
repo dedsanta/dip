@@ -1,0 +1,278 @@
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Projects\эпикВпорос\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Projects\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\эпикВпорос1,2\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\эпикВпорос1,3\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,35\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,41\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,42\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,44\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,46\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,47\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,48\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,49\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\bin\Debug\СОБЗИК.exe
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\bin\Debug\СОБЗИК.pdb
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\СОБЗИК_MarkupCompile.cache
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\СОБЗИК.g.resources
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\СОБЗИК.Properties.Resources.resources
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\СОБЗИК.exe
+C:\Users\virtual\Desktop\програма 1,50\WpfApplication1\WpfApplication1\obj\Debug\СОБЗИК.pdb
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.exe
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.pdb
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК_MarkupCompile.cache
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.g.resources
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.Properties.Resources.resources
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.exe.manifest
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.exe
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.pdb
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\bin\Debug\СОБЗИК.exe.manifest
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\bin\Debug\СОБЗИК.application
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\bin\Debug\СОБЗИК.exe
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\bin\Debug\СОБЗИК.pdb
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window3.g.cs
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК_MarkupCompile.cache
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.g.resources
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.Properties.Resources.resources
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.exe.manifest
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК.application
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\Window4.g.cs
+C:\Users\vegas\Desktop\СОБЗИК 2.1.5\WpfApplication1\obj\Debug\СОБЗИК_MarkupCompile.lref

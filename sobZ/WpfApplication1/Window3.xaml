@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApplication1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="Добавление ip-адресов" MinHeight="300" MinWidth="400" Height="500" Width="600" WindowStartupLocation="CenterScreen" Icon="ico2.ico">
+    <Grid Name="grid1" Loaded="Grid_Loaded_1" Unloaded="Grid_Unloaded_1" >
+        <Grid.RowDefinitions >
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Label Grid.Row="0" Grid.Column="0" Content="Список ip-адресов"  Margin="3"/>
+
+        
+        <ListBox  Name="listb2" Margin="3" Grid.Row="1"  Grid.Column="0" />
+        <StackPanel Grid.Row="1" Grid.Column="1">
+        <Button  Name="ydalit" Content="Удалить выбранный адрес" Padding="5" Margin="3"  Click="ydalit_Click"/>
+        <Label  Content="Поле ввода  ip-адреса" HorizontalAlignment="Left" Margin="3"  />
+            <TextBox Name="newIPbox" Margin="3" TextWrapping="Wrap" MaxLines="1" MaxLength="15" Height="25"/>
+            <Button   Name="dobavit" Content="Добавить" Padding="5" Margin="3" Click="dobavit_Click"/>
+   </StackPanel> 
+    </Grid>
+</Window>

@@ -1,0 +1,168 @@
+﻿<Window x:Class="СОБЗИК.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:СОБЗИК"
+        mc:Ignorable="d"
+          Title="СОБЗИК Стартовое окно" MinHeight="350" MinWidth="350" Closing="Window_Closing_1" Icon="ico2.ico" Height="400" Width="500">
+    <Grid >
+        <Grid Name="Start_window" Visibility="Visible">
+            <Grid.RowDefinitions >
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Menu Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="0" >
+                <MenuItem Header="ФАЙЛ">
+                    <MenuItem Header="Режим Клиента" Click="clientform_Click"/>
+                    <MenuItem Header="Режим Сервера" Click="serverform_Click"/>
+                    <Separator/>
+                    <MenuItem Header="Выход" Click="Window_Closing_2"/>
+                </MenuItem>
+                <MenuItem Header="СПРАВКА">
+                    <MenuItem  Header="Просмотр справка" Click="MenuItem_OnClick2"/>
+                    <MenuItem Header="О программе" Click="MenuItem_OnClick3"/>
+                </MenuItem>
+            </Menu>
+            <StackPanel Grid.Column="0" Grid.Row="1" Margin="3">
+                <TextBlock TextWrapping="Wrap" Margin="3" Padding="5">
+                Запустится клиентская часть на текущем компьютере, клиент подключается к серверу и получает от него интересующую информацию.
+                </TextBlock>
+                <Button Name="clientform" Content="Запуск Клиента" Margin="3"  Click="clientform_Click"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="1" Margin="3">
+                <TextBlock TextWrapping="Wrap" Margin="3" Padding="5">
+                Запустится серверная часть на текущем компьютере, сервер ожидает подключения клиентов и отправляет клиентам необходимую информацию.
+                </TextBlock>
+                <Button Name="serverform" Content="Запуск Сервер" Margin="3" Click="serverform_Click"/>
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="3" Margin="3">
+                <Label Content="Поле ввода порта"  Margin="3" />
+                <TextBox x:Name="textport"  TextWrapping="Wrap" Height="25" MinWidth="100" MaxWidth="200" HorizontalAlignment="Left" Margin="3" MaxLength="5" KeyDown="textport_KeyDown" />
+            </StackPanel>
+
+        </Grid>
+        <Grid Name="Client_window" Visibility="Hidden">
+            <Grid.RowDefinitions >
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <RichTextBox x:Name="ChatBox"  IsReadOnly="True" Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" VerticalScrollBarVisibility="Auto" TextChanged="ChatBox_TextChanged"  Margin="3" />
+            <Button Click="ButtonBase_OnClick3" Content="Очистить" Grid.Row="3" Grid.Column="2"  Padding="5" Margin="3" VerticalAlignment="Bottom" HorizontalAlignment="Right" />
+            <ListBox x:Name="listBox1" SelectionMode="Single"  Grid.Row="2" Grid.Column="0" Grid.RowSpan="3" Margin="3"/>
+            <Button x:Name="gotoform" Content="Добавление адресов" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Padding="5" Margin="3" Click="gotoform_Click"/>
+            <StackPanel Grid.Row="2" Grid.Column="1" Grid.RowSpan="3">
+                <Label  VerticalAlignment="Top" Content="Вид получаемых данных"/>
+                <RadioButton x:Name="msg1" Content="Данные в КилоБайтах" IsChecked="True"  Margin="3"/>
+                <RadioButton x:Name="msg2" Content="Данные в МегаБайтах"   Margin="3"/>
+                <RadioButton x:Name="msg3" Content="Данные в ГигаБайтах"  Margin="3" />
+                <Button Name="give1" Click="ButtonBase_OnClick" Content="Получить у выбранного"   Padding="5" Margin="3"/>
+                <Button Name="give2" Click="but_click_all" Content="Получить у всех" Padding="5" Margin="3"/>
+                <Label Content="Поле ввода для поиска " Margin="3" />
+                <TextBox x:Name="searchbox"  Margin="3" Height="25"/>
+                <Button Content="Поиск на текущем компьютере"  Click="Button_Click_3"  Padding="5" Margin="3" />
+                <Button Content="Показать все ПО на ПК"  Click="Button_Click_4"  Padding="5" Margin="3" />
+            </StackPanel>
+            <StackPanel Margin="3" Grid.Row="1" Grid.Column="0">
+                <Label  VerticalAlignment="Top" Content="Режим подключения"/>
+                <TabControl Padding="5" Margin="3" Name="tabcontrol1" SelectionChanged="TabControl_SelectionChanged_1">
+                    <TabItem Name="tab1" Header="Автоматический">
+                        <Grid Background="#FFE5E5E5">
+                            <StackPanel>
+                                <RadioButton x:Name="time1" IsChecked="true" Content="2 сек. на подключение, 4 сек. на получение"  Margin="3" />
+                                <RadioButton x:Name="time2" Content="3 сек. на подключение, 6 сек. на получение"  Margin="3"/>
+                                <RadioButton x:Name="time3" Content="5 сек. на подключение, 10 сек. на получение"  Margin="3" />
+                            </StackPanel>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Name="tab2" Header="Ручной">
+                        <Grid Background="#FFE5E5E5">
+                            <StackPanel>
+                                <Button x:Name="Connect"  Content="Подключиться" Click="Connect_Click" Margin="3" Padding="1" Background="PaleGreen"  />
+                                <Button x:Name="Send" Content="Получить" Click="SendButton_Click" Margin="3" Padding="1" Background="LightBlue"/>
+                                <Button Content="Отключиться" Click="CloseConnect" Margin="3" Padding="1" Background="LightPink"/>
+                            </StackPanel>
+                        </Grid>
+                    </TabItem>
+                </TabControl>
+            </StackPanel>
+            <Menu  Grid.Row="0" Grid.ColumnSpan="3">
+                <MenuItem Header="ФАЙЛ">
+                    <MenuItem Header="Стартовое окно" Click="MenuItem_OnClick1"/>
+                    <Separator/>
+                    <MenuItem Header="Выход" Click="MenuItem_OnClick2"/>
+                </MenuItem>
+                <MenuItem Header="СПРАВКА">
+                    <MenuItem Header="Просмотр справка" Click="MenuItem_OnClick3"/>
+                    <MenuItem Header="О программе" Click="MenuItem_OnClick4"/>
+                </MenuItem>
+            </Menu>
+
+        </Grid>
+        <Grid Name="Server_window" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Menu  Grid.Row="0" >
+                <MenuItem Header="ФАЙЛ">
+                    <MenuItem Header="Стартовое окно" Click="MenuItem_OnClick1"/>
+                    <Separator/>
+                    <MenuItem Header="Выход" Click="MenuItem_OnClick2"/>
+                </MenuItem>
+                <MenuItem Header="СПРАВКА">
+                    <MenuItem Header="Просмотр справка" Click="MenuItem_OnClick3"/>
+                    <MenuItem Header="О программе" Click="MenuItem_OnClick4"/>
+                </MenuItem>
+            </Menu>
+            <RichTextBox Grid.Row="1" x:Name="ChatBox" Margin="3,3,3,3" FontFamily="Arial" FontSize="12" IsReadOnly="True" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" TextChanged="ChatBox_TextChanged">
+                <FlowDocument>
+                    <Paragraph>
+                        <InlineUIContainer>
+                        </InlineUIContainer>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+            <TextBox x:Name="typesendtext" HorizontalAlignment="Left" Height="25.715" Margin="3,3,3,3" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="243" Visibility="Hidden"/>
+
+        </Grid>
+        <Grid Name="Add_window" Visibility="Hidden" Loaded="Grid_Loaded_1" Unloaded="Grid_Unloaded_1">
+            <Grid.RowDefinitions >
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Content="Список ip-адресов"  Margin="3"/>
+
+
+            <ListBox  Name="listb2" Margin="3" Grid.Row="1"  Grid.Column="0" />
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <Button  Name="ydalit" Content="Удалить выбранный адрес" Padding="5" Margin="3"  Click="ydalit_Click"/>
+                <Label  Content="Поле ввода  ip-адреса" HorizontalAlignment="Left" Margin="3"  />
+                <TextBox Name="newIPbox" Margin="3" TextWrapping="Wrap" MaxLines="1" MaxLength="15" Height="25"/>
+                <Button   Name="dobavit" Content="Добавить" Padding="5" Margin="3" Click="dobavit_Click"/>
+            </StackPanel>
+
+        </Grid>
+        <Grid Name="About_window" Visibility="Hidden">
+
+        </Grid>
+    </Grid>
+    
+</Window>

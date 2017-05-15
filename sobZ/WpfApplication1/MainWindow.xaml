@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="СОБЗИК Стартовое окно" MinHeight="350" MinWidth="350" Closing="Window_Closing_1" Icon="ico2.ico" Height="400" Width="500">
+    <Grid>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Menu Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="0" >
+            <MenuItem Header="ФАЙЛ">
+                <MenuItem Header="Режим Клиента" Click="clientform_Click"/>
+                <MenuItem Header="Режим Сервера" Click="serverform_Click"/>
+                <Separator/>
+                <MenuItem Header="Выход" Click="Window_Closing_2"/>
+            </MenuItem>
+            <MenuItem Header="СПРАВКА">
+                <MenuItem  Header="Просмотр справка" Click="MenuItem_OnClick2"/>
+                <MenuItem Header="О программе" Click="MenuItem_OnClick3"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="3">
+            <TextBlock TextWrapping="Wrap" Margin="3" Padding="5">
+                Запустится клиентская часть на текущем компьютере, клиент подключается к серверу и получает от него интересующую информацию.
+            </TextBlock>
+            <Button Name="clientform" Content="Запуск Клиента" Margin="3"  Click="clientform_Click"/>
+         </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="3">
+            <TextBlock TextWrapping="Wrap" Margin="3" Padding="5">
+                Запустится серверная часть на текущем компьютере, сервер ожидает подключения клиентов и отправляет клиентам необходимую информацию.
+            </TextBlock>
+            <Button Name="serverform" Content="Запуск Сервер" Margin="3" Click="serverform_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="3" Margin="3">
+           <Label Content="Поле ввода порта"  Margin="3" />
+            <TextBox x:Name="textport"  TextWrapping="Wrap" Height="25" MinWidth="100" MaxWidth="200" HorizontalAlignment="Left" Margin="3" MaxLength="5" KeyDown="textport_KeyDown" />
+        </StackPanel>
+    </Grid>
+</Window>
